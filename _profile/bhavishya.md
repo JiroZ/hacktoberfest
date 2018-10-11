@@ -22,5 +22,5 @@ stackoverflow: https://stackoverflow.com/users/6753372/bhavishya
 # Optional
 # Upload the image to imgur and
 # paste the direct link to image
-picture: https://i.imgur.com/026iPKD.jpeg
+picture: https://i.imgur.com/026iPKD.jpg
 ---
